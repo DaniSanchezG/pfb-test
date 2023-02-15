@@ -1,0 +1,228 @@
+/* Generic styles */
+
+.xs, .s, .m, .l, .xl{
+    display: inline-block;
+    margin: 5px 5px;
+    border-radius: 2em;
+    text-transform: uppercase;
+}
+
+/* Size container modifiers */
+
+.xs{
+    padding: 2px 4px;
+}
+
+.s{
+    padding: 4px 8px;
+}
+
+.m{
+    padding: 8px 16px;
+}
+
+.l{
+    padding: 10px 20px;
+}
+
+.xl{
+    padding: 15px 30px;
+}
+
+/* Size text modifiers */
+
+.text-xs{
+    font-size: .5rem;
+}
+
+.text-s{
+    font-size: .75rem;
+}
+
+.text-m{
+    font-size: 1rem;
+}
+
+.text-l{
+    font-size: 1.25rem;
+}
+
+.text-xl{
+    font-size: 1.5rem;
+}
+
+/* Background color modifiers */
+
+.bg-blue{
+    background-color: #3e73fb;
+}
+
+.bg-green{
+    background-color: #1cc88a;
+}
+
+.bg-yellow{
+    background-color: #f6c23e;
+}
+
+.bg-red{
+    background-color: #e74a3b;
+}
+
+.bg-purple{
+    background-color: #858796;
+}
+
+/* Text color modifiers */
+
+.text-black{
+    color: #000;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.text-blue{
+    color: #3e73fb;
+}
+
+.text-green{
+    color: #1cc88a;
+}
+
+.text-yellow{
+    color: #f6c23e;
+}
+
+.text-red{
+    color: #e74a3b;
+}
+
+.text-purple{
+    color: #858796;
+}
+
+/* Border radius modifiers */
+
+.radius-xs{
+    border-radius: 1em;
+}
+
+.radius-s{
+    border-radius: 2em;
+}
+
+.radius-m{
+    border-radius: 3em;
+}
+
+.radius-l{
+    border-radius: 4em;
+}
+
+.radius-xl{
+    border-radius: 5em;
+}
+
+/* Border type modifiers */
+
+.border-solid{
+    border-style: solid;
+}
+
+.border-dashed{
+    border-style: dashed;
+}
+
+.border-dotted{
+    border-style: dotted;
+}
+
+/* Border color modifiers */
+
+.border-blue{
+    border-color: #3e73fb;
+}
+
+.border-green{
+    border-color: #1cc88a;
+}
+
+.border-yellow{
+    border-color: #f6c23e;
+}
+
+.border-red{
+    border-color: #e74a3b;
+}
+
+.border-purple{
+    border-color: #b12ac3;
+}
+
+.boder-black{
+    border-color: #000;
+}
+
+.boder-white{
+    border-color: #fff;
+}
+
+/* Border wheigth modifiers */
+
+.border-xs{
+    border-width: .5px;
+}
+
+.border-s{
+    border-width: 1px;
+}
+
+.border-m{
+    border-width: 1.5px;
+}
+
+.border-l{
+    border-width: 2px;
+}
+
+.border-xl{
+    border-width: 2.5px;
+}
+
+
+
+/* Font weight modifiers */
+
+.light{
+    font-weight: 300;
+}
+
+.normal{
+    font-weight: 400;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+/* Display modifiers */
+
+.block{
+    display: block;
+}
+
+.inline{
+    display: inline;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+
+
+
+
+
